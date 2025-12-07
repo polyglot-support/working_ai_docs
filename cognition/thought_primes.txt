@@ -1,0 +1,78 @@
+Sensory Primes:
+
+Visual: Basic colors (red, blue, yellow), brightness, darkness
+Auditory: Pure tones, volume levels, rhythm patterns
+Tactile: Pressure, temperature, texture
+Olfactory: Basic smell categories (floral, putrid, etc.)
+Gustatory: Basic tastes (sweet, sour, salty, bitter, umami)
+Spatial-Temporal Primes:
+
+Direction: up, down, left, right, forward, backward
+Time: now, before, after, duration
+Size: big, small, growing, shrinking
+Distance: near, far, closer, farther
+Emotional Primes:
+
+Basic emotions: joy, sadness, anger, fear, disgust, surprise
+Intensity levels of emotions
+Emotional valence: positive, negative, neutral
+Abstract Concept Primes:
+
+Existence: being, not being
+Quantity: one, many, more, less
+Logic: and, or, not, if-then
+Similarity: same, different
+Causality: cause, effect
+Action Primes:
+
+Basic motions: push, pull, lift, drop
+State changes: start, stop, continue, change
+Relational Primes:
+
+Social: self, other, group
+Possession: have, not have
+Location: in, out, on, under
+Communication Primes:
+
+Intention: inform, request, warn
+Agreement: yes, no, maybe
+Emphasis: important, unimportant
+Physiological State Primes:
+
+Energy levels: tired, energetic
+Comfort: pain, pleasure, neutral
+Cognitive Process Primes:
+
+Attention: focus, ignore
+Memory: remember, forget
+Decision: choose, avoid
+Meta-Cognitive Primes:
+
+Certainty: know, unsure
+Understanding: clear, confusing
+Preference: like, dislike
+Motor Primes:
+
+Coordination: balance, stumble
+Speed: fast, slow, accelerate, decelerate
+Biological Primes:
+
+Life processes: breathe, eat, sleep, grow, decay
+Health: sick, healthy
+Material Primes:
+
+States of matter: solid, liquid, gas
+Substances: water, fire, air, earth
+Environmental Primes:
+
+Weather: sunny, rainy, windy, snowy
+Natural features: mountain, river, forest, desert
+Behavioral Primes:
+
+Responses: approach, avoid
+Interactions: cooperate, compete, communicate
+Perceptual Primes:
+
+Form: shape, pattern
+Movement: still, moving
+Orientation: upright, inverted, tilted
